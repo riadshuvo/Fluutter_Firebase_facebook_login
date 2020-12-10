@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "202371488348",
+    "firebase_url": "https://fir-emailauthentication-fdf9c.firebaseio.com",
+    "project_id": "fir-emailauthentication-fdf9c",
+    "storage_bucket": "fir-emailauthentication-fdf9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202371488348:android:f442bb606f6b6e22b96499",
+        "android_client_info": {
+          "package_name": "com.example.facebook_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQoqBVc9iMZTeG7-zzCcoxheyJ9H2IeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202371488348:android:39b41dace7b0b123",
+        "android_client_info": {
+          "package_name": "com.example.shuvo.firebaseemailauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202371488348-0me8vm0arcugl231au36e83t6urudv0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shuvo.firebaseemailauthentication",
+            "certificate_hash": "05f9cdd2c0cdd5dba82c7b185b2d1d18e89a7f33"
+          }
+        },
+        {
+          "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQoqBVc9iMZTeG7-zzCcoxheyJ9H2IeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202371488348:android:c769352de66c3781",
+        "android_client_info": {
+          "package_name": "com.example.shuvo.firebasepostshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202371488348-fj940vqa4hbf674av30fkhon8ckc84b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shuvo.firebasepostshow",
+            "certificate_hash": "05f9cdd2c0cdd5dba82c7b185b2d1d18e89a7f33"
+          }
+        },
+        {
+          "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQoqBVc9iMZTeG7-zzCcoxheyJ9H2IeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202371488348-c045m5d0kdedtnk0m0i7qpn2qt8u9uqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
